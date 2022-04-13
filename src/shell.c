@@ -1,9 +1,3 @@
-/* Name: Shell implemetation */
-/* Author: Egor Bronnikov */
-/* Last edited: 2-03-2022 */
-
-
-
 #include <stdio.h>
 #include <pwd.h>
 #include <sys/types.h>
